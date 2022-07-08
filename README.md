@@ -1,4 +1,4 @@
-### Kaggle-titanic
+### Kaggle-nlp with disaster tweets
 This is a tutorial in an IPython Notebook for the Kaggle competition, Natural Language Processing with Disaster Tweets. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions.
 
 **Quick Start:** [View](http://nbviewer.ipython.org/urls/raw.github.com/Mieczmik/nlp-with-disaster-tweets/main/nlp-with-disaster-tweets.ipynb) a static version of the notebook in the comfort of your own web browser.
